@@ -1,2 +1,2 @@
 # ubuntu-customizations
-Ubuntu 20.04.2 LTS customizations
+My Ubuntu 20.04.2 LTS customizations
