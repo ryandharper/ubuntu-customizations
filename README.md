@@ -47,16 +47,25 @@ virtualbox qemu qemu-kvm libvirt-clients libvirt-daemon-system bridge-utils virt
 ## Non standard Packages
 
 <https://code.visualstudio.com/docs/setup/linux>
+
 <https://code.visualstudio.com/docs/editor/settings-sync>
+
 <https://www.spotify.com/us/download/linux/>
+
 <https://store.steampowered.com/about/>
+
 <https://discord.com/download>
+
 <https://docs.docker.com/engine/install/ubuntu/>
+
 
 ## Peripherals
 <https://github.com/Kurgol/keychron/blob/master/k2.md>
+
 <https://github.com/medusalix/xow>
+
 <https://github.com/BradyBrenot/huestacean>
+
 Soundblaster X G6 - Check bin/setmic for bash script to be added to profile
 
 ## Pyenv
